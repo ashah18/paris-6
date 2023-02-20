@@ -1,2 +1,3 @@
 # paris-6
 This repository is for our Big Ideas Skills Lab 6. We must write a python program that takes a name input, another type of input, and it does something with this other input. The members participating are Ayan Shah, Rohil Kapur, and Sid Surana.
+The program we are writing is a four-function calculator that asks the user to input their name, two numbers, and the operation they want to do. We also added a quit option by pressing the "Q" key. The code prints out a greeting to the user once their name is inputed, and it also prints out the result from whatever operation the user wants to perform on the two numbers entered.
